@@ -16,5 +16,5 @@ pip3 install -r requirements.txt
 
 ## Usage
 ```
-python3 decitrix.py 
+python3 decitrix.py ciphertext
 ```
