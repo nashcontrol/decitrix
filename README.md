@@ -1,5 +1,5 @@
 # decitrix
-Decrypt LDAP encrypted values found in Citrix Netscaler config file.
+Decrypt LDAP encrypted values found in Citrix Netscaler config file.\
 Clone of https://dozer.nz/posts/citrix-decrypt/
 
 ## Installation
