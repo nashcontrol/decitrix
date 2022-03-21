@@ -1,6 +1,6 @@
 # decitrix
 Decrypt LDAP encrypted values found in Citrix Netscaler config file.\
-Clone of https://dozer.nz/posts/citrix-decrypt/
+Clone of https://dozer.nz/posts/citrix-decrypt/, ported to Python3
 
 ## Installation
 The script was tested on Python3.8, Running on macOS Big Sur.
