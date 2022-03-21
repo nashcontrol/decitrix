@@ -1,9 +1,9 @@
 
 import binascii,sys
 
-from Crypto.Cipher import AES
-from Crypto.Random import get_random_bytes
-from Crypto.Util.Padding import pad, unpad
+from Cryptodome.Cipher import AES
+from Cryptodome.Random import get_random_bytes
+from Cryptodome.Util.Padding import pad, unpad
 
 # based on https://dozer.nz/posts/citrix-decrypt/, follow instructions if you have -kek flag in your Netscaler config file
 
