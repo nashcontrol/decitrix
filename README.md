@@ -11,7 +11,7 @@ Clone repo and install packages:
 git clone https://github.com/nashcontrol/decitrix.git
 cd decitrix
 
-pip3 install -r requirements.txt
+pip3 install -r requirements.txt --user
 ```
 
 ## Usage
